@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taeho-jo&show_icons=true&bg_color=#4747b3,#0072c6,#009a93)](https://github.com/taeho-jo/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=taeho-jo&show_icons=true&theme=onedark&bg_color=#4747b3,#0072c6,#009a93)](https://github.com/taeho-jo/github-readme-stats)
 
 <!--
 **taeho-jo/taeho-jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
